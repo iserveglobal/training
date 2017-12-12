@@ -26,6 +26,6 @@ eureka:
     serviceUrl:
       defaultZone: ${EUREKA_ZONE}
 
-# use a HTTP port 8080
+# use a HTTP port 9090
 server:
-  port: 8080
+  port: 9090
